@@ -1,0 +1,11 @@
+.btn-group .bootstrap-select {
+    background-color: green!important;
+}
+.bootstrap-select .show-tick, .dropdown-toggle .bs-placeholder .btn-default {
+    background-color: #6e61ca!important;
+    border-radius: 8px!important;
+    padding: 12px 40px 12px 10px!important;
+    height: auto!important;
+    color: #fff!important;
+    font-size: 15px;
+}
